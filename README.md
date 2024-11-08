@@ -7,7 +7,7 @@
 
 - 👨‍💻 My best projects are available at [https://www.usamahassanasi.com](https://www.usamahassanasi.com)
 
-- 📝 I regularly write articles on [https://www.booksie.com/users/usama-hassan-asi-297135](https://www.booksie.com/users/usama-hassan-asi-297135)
+- 📝 I regularly write stories on [https://www.booksie.com/users/usama-hassan-asi-297135](https://www.booksie.com/users/usama-hassan-asi-297135)
 
 - 💬 Ask me about **Anything you prefer**
 
