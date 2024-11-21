@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.usamahassanasi.com/resume](https://www.usamahassanasi.com/resume)
 
-- ⚡ Fun fact **I love writing stories.**
+- ⚡ Fun fact **I love writing stories.** Look at my work ↣ [Writer's Account](https://github.com/itisusama-writer)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
