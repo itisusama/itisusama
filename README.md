@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Next.js, Backend**
 
-- 👨‍💻 My best projects are available at [https://www.usamahassanasi.com](https://www.usamahassanasi.com)
+- 👨‍💻 My best projects are available at [https://my-portfolio-three-livid-58.vercel.app/](https://my-portfolio-three-livid-58.vercel.app/)
 
 - 📝 I regularly write stories on [https://www.booksie.com/users/usama-hassan-asi-297135](https://www.booksie.com/users/usama-hassan-asi-297135)
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **ahmarkhan1233456@gmail.com**
 
-- 📄 Know about my experiences [https://www.usamahassanasi.com/resume](https://www.usamahassanasi.com/resume)
+- 📄 Know about my experiences [https://my-portfolio-three-livid-58.vercel.app/resume](https://my-portfolio-three-livid-58.vercel.app/resume)
 
 - ⚡ Fun fact **I love writing stories.** Look at my work ↣ [Writer's Account](https://github.com/itisusama-writer)
 
