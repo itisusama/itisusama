@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itisusama&label=Profile%20views&color=0e75b6&style=flat" alt="itisusama" /> </p>
 
-- 🌱 I’m currently learning **Next.js, Backend**
+- 🌱 I’m currently learning **Every Single Stack**
 
 - 👨‍💻 My best projects are available at [https://my-portfolio-three-livid-58.vercel.app/](https://my-portfolio-three-livid-58.vercel.app/)
 
